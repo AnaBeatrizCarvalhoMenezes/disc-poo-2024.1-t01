@@ -2,7 +2,7 @@
 
 ## Atividades referentes ao capítulo 3: Estrutura Sequencial.
 ### Activities related to chapter 3: Sequential Structure.
-- Lista 01:TODOS os Exercícios Resolvidos e 10 Exercícios Propostos.
+- Lista 01: TODOS os Exercícios Resolvidos e 10 Exercícios Propostos.
 - List 1: ALL Solved Exercises and 10 Proposed Exercises.
 
 ## Equipe:
